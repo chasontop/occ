@@ -1,5 +1,4 @@
-# occheats
-orangutan clicker cheats
+# how to:
 copy the stuff from the txt file,
 go to new tab and press ctrl shift o,
 click the three dots on top right,
